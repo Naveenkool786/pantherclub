@@ -1,1 +1,1 @@
-# pantherclub
+# School Project
